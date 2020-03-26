@@ -7,7 +7,7 @@ main {
 }
 
 tbody tr:nth-child(odd) {
-  background-color:#e2e2e2;
+  background-color: #e2e2e2;
 }
 
 .year {
@@ -28,7 +28,8 @@ table {
 
 @media only screen and (min-width: 60em) {
 
-    .table-wrapper {
-      overflow: visible;
-    }
+  .table-wrapper {
+    overflow: visible;
+  }
+
 }
